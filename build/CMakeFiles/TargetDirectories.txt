@@ -1,0 +1,3 @@
+D:/VisualStudio/Project/CMakeProject1/build/CMakeFiles/say_hello.dir
+D:/VisualStudio/Project/CMakeProject1/build/CMakeFiles/ALL_BUILD.dir
+D:/VisualStudio/Project/CMakeProject1/build/CMakeFiles/ZERO_CHECK.dir
